@@ -14,11 +14,11 @@ I created this application to learn Spring Framework, lombok library and thymele
 ## Screenshots
 
 Login section:
-![Example screenshot](./screenshot2.png)
+![Example screenshot](./screenshot.png)
 
 
 Financial questionnaire section:
-![Example screenshot](./screenshot1.png)
+![Example screenshot](./screenshot2.png)
 
 ## Technologies
 * Java 8

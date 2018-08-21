@@ -27,7 +27,6 @@ Financial questionnaire section:
 * Lombok
 * Maven
 * HTML 5 
-* CSS 3
 
 ## Status
 Project is: _finished_
